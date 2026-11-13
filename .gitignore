@@ -1,0 +1,14 @@
+# Arquivos locais e credenciais
+.env
+.env.*
+!.env.example
+config/conexao.local.php
+*.log
+*.zip
+*.bak
+*.sql.gz
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+/gerenciador_logistico/

@@ -1,0 +1,17 @@
+:root { --bs-primary: #175cbd; }
+body { background:#f3f6fb; color:#24344d; min-height:100vh; display:flex; flex-direction:column; }
+.bg-primary { background-color:#175cbd!important; }
+.btn-primary { background:#175cbd; border-color:#175cbd; }
+.btn-primary:hover { background:#124b9c; border-color:#124b9c; }
+.card { border:1px solid #e1e8f2; border-radius:14px; box-shadow:0 4px 16px #14345a08; }
+h1 { font-size:1.8rem; font-weight:700; }
+.table th { background:#edf3fd; white-space:nowrap; color:#344b6c; }
+.table td { vertical-align:middle; }
+.table-responsive { border-radius:10px; }
+.resumo-numero { font-size:2.5rem; font-weight:700; color:#175cbd; }
+.acoes { display:flex; flex-wrap:wrap; gap:.4rem; }
+.form-label { font-weight:600; }
+.cabecalho { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:1rem; margin-bottom:1.5rem; }
+.hero { background:#e8f0ff; border-left:4px solid #175cbd; padding:1.5rem; border-radius:12px; }
+.item-produto { background:#f7f9fd; border:1px solid #dce5f2; border-radius:10px; padding:1rem; }
+@media(max-width:575px) { h1 {font-size:1.5rem} .card-body {padding:1rem} }

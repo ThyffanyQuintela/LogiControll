@@ -117,5 +117,7 @@
 - Cadastro vinculado: alerta vermelho ao tentar excluir, preservando o registro.
 - ID inexistente: retorno à listagem com mensagem.
 
-## Frames a exportar
-Crie os 14 frames principais acima e, se desejar, variantes mobile e de erro. Nomeie os frames com número e título. Exporte as telas selecionadas em PDF para a etapa de análise. Esta especificação descreve o projeto entregue e não representa uma inspeção do protótipo Figma anterior.
+## Organização das telas
+As 14 telas descritas acima correspondem às áreas de navegação, cadastro, geração de fretes e consulta de relatórios previstas no sistema. As versões para dispositivos móveis e os estados de validação podem ser representados como variações das interfaces principais.
+
+Este documento registra a organização e os elementos visuais previstos para as interfaces; o protótipo elaborado no Figma e o PDF de telas são materiais complementares.
